@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/dktorza.github.io/pixelperfect/static/css/main.8583b485.chunk.css",
-    "main.js": "/dktorza.github.io/pixelperfect/static/js/main.497e04c4.chunk.js",
-    "main.js.map": "/dktorza.github.io/pixelperfect/static/js/main.497e04c4.chunk.js.map",
-    "runtime-main.js": "/dktorza.github.io/pixelperfect/static/js/runtime-main.0b970ae5.js",
-    "runtime-main.js.map": "/dktorza.github.io/pixelperfect/static/js/runtime-main.0b970ae5.js.map",
-    "static/js/2.a95445f2.chunk.js": "/dktorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js",
-    "static/js/2.a95445f2.chunk.js.map": "/dktorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js.map",
-    "index.html": "/dktorza.github.io/pixelperfect/index.html",
-    "static/css/main.8583b485.chunk.css.map": "/dktorza.github.io/pixelperfect/static/css/main.8583b485.chunk.css.map",
-    "static/js/2.a95445f2.chunk.js.LICENSE.txt": "/dktorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/dktorza.github.io/pixelperfect/static/media/Livvic-Regular.d0f0167c.ttf",
-    "static/media/aiysha.e119a0c1.jpg": "/dktorza.github.io/pixelperfect/static/media/aiysha.e119a0c1.jpg",
-    "static/media/arthur.098c2e26.jpg": "/dktorza.github.io/pixelperfect/static/media/arthur.098c2e26.jpg",
-    "static/media/brcorner.28b4ab24.jpg": "/dktorza.github.io/pixelperfect/static/media/brcorner.28b4ab24.jpg",
-    "static/media/kady.78fc482c.jpg": "/dktorza.github.io/pixelperfect/static/media/kady.78fc482c.jpg",
-    "static/media/tlcorner.4bb9fde6.jpg": "/dktorza.github.io/pixelperfect/static/media/tlcorner.4bb9fde6.jpg"
+    "main.css": "/dkatorza.github.io/pixelperfect/static/css/main.cf51a080.chunk.css",
+    "main.js": "/dkatorza.github.io/pixelperfect/static/js/main.497e04c4.chunk.js",
+    "main.js.map": "/dkatorza.github.io/pixelperfect/static/js/main.497e04c4.chunk.js.map",
+    "runtime-main.js": "/dkatorza.github.io/pixelperfect/static/js/runtime-main.d877e542.js",
+    "runtime-main.js.map": "/dkatorza.github.io/pixelperfect/static/js/runtime-main.d877e542.js.map",
+    "static/js/2.a95445f2.chunk.js": "/dkatorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js",
+    "static/js/2.a95445f2.chunk.js.map": "/dkatorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js.map",
+    "index.html": "/dkatorza.github.io/pixelperfect/index.html",
+    "static/css/main.cf51a080.chunk.css.map": "/dkatorza.github.io/pixelperfect/static/css/main.cf51a080.chunk.css.map",
+    "static/js/2.a95445f2.chunk.js.LICENSE.txt": "/dkatorza.github.io/pixelperfect/static/js/2.a95445f2.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/dkatorza.github.io/pixelperfect/static/media/Livvic-Regular.d0f0167c.ttf",
+    "static/media/aiysha.e119a0c1.jpg": "/dkatorza.github.io/pixelperfect/static/media/aiysha.e119a0c1.jpg",
+    "static/media/arthur.098c2e26.jpg": "/dkatorza.github.io/pixelperfect/static/media/arthur.098c2e26.jpg",
+    "static/media/brcorner.28b4ab24.jpg": "/dkatorza.github.io/pixelperfect/static/media/brcorner.28b4ab24.jpg",
+    "static/media/kady.78fc482c.jpg": "/dkatorza.github.io/pixelperfect/static/media/kady.78fc482c.jpg",
+    "static/media/tlcorner.4bb9fde6.jpg": "/dkatorza.github.io/pixelperfect/static/media/tlcorner.4bb9fde6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b970ae5.js",
+    "static/js/runtime-main.d877e542.js",
     "static/js/2.a95445f2.chunk.js",
-    "static/css/main.8583b485.chunk.css",
+    "static/css/main.cf51a080.chunk.css",
     "static/js/main.497e04c4.chunk.js"
   ]
 }
